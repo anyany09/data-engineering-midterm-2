@@ -1,0 +1,4 @@
+date,measurement,experiment
+03/01/2025,0.1234567,ExpA
+03/02/2025,,ExpB
+03/03/2025,0.9876543,ExpC
