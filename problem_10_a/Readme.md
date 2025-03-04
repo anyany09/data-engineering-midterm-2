@@ -18,6 +18,8 @@
 პროექტის გაშვებამდე დარწმუნდით, რომ თქვენს კომპიუტერზე დაყენებულია **Python (3.x) და Pandas ბიბლიოთეკა**. ინსტალაციისთვის შეასრულეთ:
 
 ```bash
+python -m venv env
+env\Scripts\activate
 pip install pandas
 ```
 
